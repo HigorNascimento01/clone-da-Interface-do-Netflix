@@ -15,8 +15,3 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Entre em contato comigo via:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalitac%C3%A9li/)](https://www.linkedin.com/in/thalitac%C3%A9li/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalitaceli@gmail.com)](mailto:thalitaceli@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Thalitaceli-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ThalitaCeli)](https://twitter.com/ThalitaCeli)
